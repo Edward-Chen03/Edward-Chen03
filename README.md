@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eddie,
+- 👋 Hi, I’m Eddie
 
 I am currently a junior at Stony Brook University, majoring in Computer Science and Applied Mathematics and Statistics. 
 
