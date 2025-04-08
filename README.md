@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eddie
 
-I am currently a junior at Stony Brook University, majoring in Computer Science and Applied Mathematics and Statistics. 
+I'm currently studying at Stony Brook University, majoring in Computer Science and Applied Mathematics and Statistics. 
 
 <!---
 KulaThatGuy/KulaThatGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
